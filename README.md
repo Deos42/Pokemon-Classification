@@ -144,19 +144,6 @@ Distance calculations are vectorized using NumPy, but no spatial indexing (KD-Tr
 - scikit-learn (StandardScaler only)
 
 ---
-
-## Key Takeaways
-
-This project demonstrates:
-
-- Strong understanding of density-based clustering
-- Implementation from first principles
-- Correct preprocessing for distance-based models
-- Handling of core, border, and noise points
-- Awareness of computational trade-offs
-
----
-
 ## Future Improvements
 
 - Implement KD-Tree for sub-quadratic neighbor search
